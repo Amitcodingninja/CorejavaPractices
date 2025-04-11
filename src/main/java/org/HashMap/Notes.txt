@@ -1,0 +1,9 @@
+ Collision Handling
+Jab 2 ya usse zyada keys ka hashcode same aata hai, tab Collision hota hai.
+
+Collision ko handle karne ke liye:
+
+LinkedList use hoti hai, agar entries kam hain.
+
+Agar LinkedList ki size 8 se zyada ho jaaye to yeh Red-Black Tree me convert ho jaati hai.
+

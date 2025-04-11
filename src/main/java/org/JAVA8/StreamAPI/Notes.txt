@@ -1,0 +1,13 @@
+Collection --> Stream --> Operation(s) --> Result
+
+
+List<Integer> list = Arrays.asList(1, 2, 3, 4, 5);
+Stream<Integer> stream = list.stream();
+
+
+
+int[] arr = {10, 20, 30};
+IntStream stream = Arrays.stream(arr);
+
+
+Stream<String> stream = Stream.of("A", "B", "C");
