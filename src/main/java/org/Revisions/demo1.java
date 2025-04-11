@@ -8,7 +8,7 @@ public class demo1 {
         System.out.println("Hello From Amit2");
         System.out.println("Hello From Amit3");
 
-
+// Conflict wiil come
 
         System.out.println("New Changes1");
         System.out.println("New Changes2");
