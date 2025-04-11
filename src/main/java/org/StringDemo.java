@@ -18,3 +18,6 @@ public class StringDemo {
         System.out.println("Vowel : " + vowel + " Consonent : " + consonent);
     }
 }
+
+
+//Hello World
