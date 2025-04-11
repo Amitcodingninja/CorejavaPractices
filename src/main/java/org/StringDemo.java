@@ -19,5 +19,3 @@ public class StringDemo {
     }
 }
 
-// Hello
-//Hello World
